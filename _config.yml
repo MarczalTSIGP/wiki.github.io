@@ -31,7 +31,7 @@ url: "https://marczaltsigp.github.io" # the base hostname & protocol for your si
 # Social (First three Required)
 repo: "https://github.com/MarczalTSIGP/wiki.github.io"
 github_user: "MarczalTSIGP"
-github_repo: "wiki.github.io"
+github_repo: "/wiki.github.io/"
 
 # Optional
 twitter: vsoch
